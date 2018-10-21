@@ -38,4 +38,4 @@
    Vector Image 4: 
    142,35 142,35 142,35 142,35 142,35 141,35 142,35 142,35
   
-   4. Drawing the image using a SVG HTML element (https://www.nzpost.co.nz/tools/tracking/item/8478673305000601NAP003AS):
+   4. Drawing the image using a SVG HTML element (https://www.nzpost.co.nz/tools/tracking/item/8478673305000601NAP003AS)
