@@ -4,6 +4,9 @@ using System.Drawing;
 
 namespace nzpost_signature_decode
 {
+
+    //refer to the readme.txt file before commencing
+
     class Program
     {
         static void Main(string[] args)
